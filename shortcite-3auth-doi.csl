@@ -70,9 +70,8 @@
       <text variable="citation-number"/>
     </layout>
   </citation>
-  <bibliography second-field-align="flush" entry-spacing="0">
+  <bibliography entry-spacing="0">
     <layout>
-      <text variable="citation-number" suffix="."/>
       <text macro="author"/>
       <text variable="container-title" font-style="italic" prefix=", " suffix=" " form="short"/>
       <text variable="volume" suffix=", " font-weight="bold"/>
